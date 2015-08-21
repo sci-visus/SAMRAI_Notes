@@ -1,0 +1,6 @@
+Its easier to run this example on one of the LC machines like cab or sierra as
+SAMRAI builds without any issues on those machines. Also, you should place the
+contents of this folder within the MblkLinAdv and compile the code. 
+
+Also note that this example is a hack at understanding the SAMRAI class
+structure. 
