@@ -4,3 +4,6 @@ contents of this folder within the MblkLinAdv and compile the code.
 
 Also note that this example is a hack at understanding the SAMRAI class
 structure. 
+
+The files mergeTreeWrapper.h and mergeTreeWrapper.cc are the files that enable
+extraction of SAMRAI data. 
